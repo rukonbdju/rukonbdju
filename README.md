@@ -10,6 +10,7 @@
 - 🔭 Node JS
 - 🔭 Express
 - 🔭 Mongo DB
+- 🔭 JWT
 
 ## My Projects
 <table>
