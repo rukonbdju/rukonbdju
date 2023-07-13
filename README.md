@@ -4,6 +4,7 @@
 ### I’m currently working on ...
 - 🔭 HTML
 - 🔭 CSS
+- 🔭 Tailwind CSS
 - 🔭 JavaScrit
 - 🔭 React
 - 🔭 Firebase
