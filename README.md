@@ -29,7 +29,10 @@
       <td><b>It is a classroom app where users can create and join a classroom. In the classroom, users can post, like comments reply, etc.</b></td>
       <td><b>https://my-classroom-bd.web.app
 </b></td>
-      <td><b>https://github.com/rukonbdju/my-classroom-client.git</b></td>
+      <td>
+        <b>https://github.com/rukonbdju/my-classroom-client.git</b>
+        <b>https://github.com/rukonbdju/my-classroom-server.git</b>
+      </td>
     </tr>
   </tbody>
 </table>
