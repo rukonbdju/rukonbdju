@@ -1,7 +1,6 @@
 # 🌱 Welcome 👋
 
-### I’m currently learning full-stack web development
-### I’m currently working on ...
+### Journey to full-stack web development
 - 🔭 HTML
 - 🔭 CSS
 - 🔭 Tailwind CSS
