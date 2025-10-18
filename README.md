@@ -86,8 +86,8 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/studio-dark/open-logos/main/prisma.svg" alt="Prisma" width="40" height="40" />
-  <img src="https://orm.drizzle.team/img/drizzle-logo-green.svg" alt="Drizzle" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/prisma-logo.png" alt="Prisma" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/website/static/img/drizzle-logo.svg" alt="Drizzle" width="40" height="40" />
 </p>
 
 ### **DevOps & Platforms**
@@ -97,7 +97,7 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-logo.png" alt="PM2" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Unitech/pm2/develop/pres/pm2-logo.png" alt="PM2" width="40" height="40" />
 </p>
 
 ---
@@ -142,16 +142,14 @@ Tech: *TypeScript, Next.js, Express, MongoDB*
 
 ## 🏆 GitHub Achievements & Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=rukonbdju)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rukonbdju\&theme=radical)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
-> 🔁 *Replace `YOUR_USERNAME` with your actual GitHub username.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rukonbdju\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rukonbdju\&layout=compact\&theme=radical)
 
 ---
 
