@@ -86,8 +86,8 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/prisma-logo.png" alt="Prisma" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/website/static/img/drizzle-logo.svg" alt="Drizzle" width="40" height="40" />
+  <img src="https://images.seeklogo.com/logo-png/42/2/prisma-logo-png_seeklogo-428631.png" alt="Prisma" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="Drizzle" width="40" height="40" />
 </p>
 
 ### **DevOps & Platforms**
@@ -97,7 +97,7 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Unitech/pm2/develop/pres/pm2-logo.png" alt="PM2" width="40" height="40" />
+  <img src="https://images.seeklogo.com/logo-png/27/2/pm2-logo-png_seeklogo-273807.png" alt="PM2" width="40" height="40" />
 </p>
 
 ---
