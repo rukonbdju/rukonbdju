@@ -8,9 +8,25 @@ I am a passionate Software Engineer with professional experience in building sca
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rukonbd)
-[![Gmail](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)](mailto:rukonbd.dev@gmail.com)
-
+<p align="left">
+  <a href="https://linkedin.com/in/rukonbd" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      width="40" 
+      height="40"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rukonbd.dev@gmail.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+      alt="Gmail" 
+      width="40" 
+      height="40"
+    />
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -34,7 +50,12 @@ I am a passionate Software Engineer with professional experience in building sca
 
 ### **Frontend**
 
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![Ant Design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="40" height="40"/>
+</p>
 
 ### **Backend & Tools**
 
