@@ -32,7 +32,7 @@ I am a passionate Software Engineer with professional experience in building sca
   &nbsp;&nbsp;
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+  <a href="https://wa.me/8801902445096" target="_blank">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
       alt="WhatsApp" 
@@ -97,7 +97,6 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://images.seeklogo.com/logo-png/27/2/pm2-logo-png_seeklogo-273807.png" alt="PM2" width="40" height="40" />
 </p>
 
 ---
