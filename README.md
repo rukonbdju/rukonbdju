@@ -1,107 +1,101 @@
-<h1 align="center">Hi there, I'm Rukonuzzaman 👋</h1>
-<h3 align="center">A passionate Software Engineer specializing in the modern JavaScript ecosystem.</h3>
+# Hi there, I'm Rukonuzzaman 👋
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/rukonbd" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukonbd" height="30" width="40" /></a>
-<a href="mailto:rukonbd.dev@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rukonbd.dev@gmail.com" height="30" width="40" /></a>
-</p>
+## 🚀 Software Engineer | JavaScript Ecosystem Enthusiast
 
-👨‍💻 About Me
+I am a passionate Software Engineer with professional experience in building scalable, high-performance web applications. I specialize in **Next.js**, **React**, and **TypeScript**, with strong backend skills in **Node.js** and modern tooling.
 
-I am a Software Engineer with over a year of professional experience, focusing on building scalable, server-rendered applications. I'm highly proficient with Next.js, React, and TypeScript, complemented by a strong foundation in Node.js for backend APIs. I am always adaptable and eager to learn new technologies to build efficient and innovative solutions.
+---
 
-🚀 My Skills
+## 🌐 Connect with Me
 
-Here are some of the technologies I've been working with:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rukonbd)
+[![Gmail](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)](mailto:rukonbd.dev@gmail.com)
 
-Languages:
+---
 
-<p>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-</p>
+## 👨‍💻 About Me
 
-Frontend Development:
+* 🔭 Currently working at **Red Data (Pvt.) Limited**
+* 🧠 Focused on **server-rendered apps**, **real-time systems**, and **API architecture**
+* 🎯 Always learning, adapting, and exploring cutting-edge tech
 
-<p>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant design" width="40" height="40"/> </a>
-</p>
+---
 
-Backend Development:
+## 🛠️ Tech Stack
 
-<p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-</p>
+### **Languages**
 
-Databases & ORMs:
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
-<p>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/studio-dark/open-logos/main/prisma.svg" alt="prisma" width="40" height="40"/> </a>
-<a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://orm.drizzle.team/img/drizzle-logo-green.svg" alt="drizzle" width="40" height="40"/> </a>
-</p>
+### **Frontend**
 
-DevOps & Tools:
+![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![Ant Design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
 
-<p>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-logo.png" alt="pm2" width="40" height="40"/> </a>
-</p>
+### **Backend & Tools**
 
-💻 Professional Experience
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ![Django](https://cdn.worldvectorlogo.com/logos/django.svg)
 
-Software Engineer @ Red Data (Pvt.) Limited (Jan 2025 - Present)
+### **Databases & ORMs**
 
-Deployed a production-ready, full-stack solution for real-time foot traffic monitoring, processing data from counting hardware via HTTP POST and using WebSockets for low-latency data streams.
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ![Prisma](https://raw.githubusercontent.com/studio-dark/open-logos/main/prisma.svg) ![Drizzle](https://orm.drizzle.team/img/drizzle-logo-green.svg)
 
-Redesigned a dashboard UI for enhanced data visualization and real-time monitoring of operator efficiency.
+### **DevOps & Platforms**
 
-📂 Featured Projects
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![PM2](https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-logo.png)
 
-Real-Time People Counting & Analytics Platform
+---
 
-Technologies: TypeScript, Next.js, Node.js (Express), MongoDB, Mongoose, WebSockets, Nginx, PM2, VM.
+## 💼 Professional Experience
 
-Engineered a Node.js backend for data ingestion, handling hardware API communication and persisting traffic data to MongoDB.
+**Software Engineer — Red Data (Pvt.) Limited**
+*Jan 2025 – Present*
 
-Developed a dynamic, low-latency dashboard using Next.js and WebSockets for instantaneous updates.
+* Built real-time foot traffic monitoring with WebSocket-powered dashboards
+* Designed scalable Node.js APIs for hardware data ingestion
 
-Deployed the application on a Linux VM, configuring Nginx as a reverse proxy and using PM2 for high availability.
+---
 
-[Live Demo] [Source Code] (Replace with your links)
+## 📂 Featured Projects
 
-Interest-Free Loan Management System
+### **Real-Time People Counting & Analytics**
 
-Technologies: TypeScript, Next.js, Node.js (Express), MongoDB, Mongoose, Vercel.
+Tech: *TypeScript, Next.js, Express, MongoDB, WebSockets*
 
-Built a full-stack platform with a Node.js API utilizing MongoDB's aggregation pipeline for advanced queries.
+* Built real-time dashboards and API integrations
+* Deployed on Linux VM with Nginx & PM2
 
-Created a type-safe Next.js frontend for intuitive record management.
+🔗 *Live Demo* | *Source Code*
 
-[Live Demo] [Source Code] (Replace with your links)
+### **Interest-Free Loan Management System**
 
-🎓 Education
+Tech: *TypeScript, Next.js, Express, MongoDB*
 
-B.Sc in Physics - Jahangirnagar University (2019-2024)
+* Developed aggregation-powered data insights
+* Created user-friendly dashboards
 
-📊 My GitHub Stats
+🔗 *Live Demo* | *Source Code*
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages">
-</p>
+---
 
-Note: Replace YOUR_USERNAME with your actual GitHub username in the image URLs above.
+## 🎓 Education
+
+**B.Sc in Physics** — Jahangirnagar University (2019–2024)
+
+---
+
+## 🏆 GitHub Achievements & Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+> 🔁 *Replace `YOUR_USERNAME` with your actual GitHub username.*
+
+---
+
+⭐ *Thanks for visiting! Feel free to connect or explore my projects.*
