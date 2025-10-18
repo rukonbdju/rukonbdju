@@ -6,28 +6,42 @@ I am a passionate Software Engineer with professional experience in building sca
 
 ---
 
-## 🌐 Connect with Me
+## Connect with me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rukonbd" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       alt="LinkedIn" 
       width="40" 
       height="40"
     />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:rukonbd.dev@gmail.com" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
       alt="Gmail" 
       width="40" 
       height="40"
     />
   </a>
+  &nbsp;&nbsp;
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+      alt="WhatsApp" 
+      width="40" 
+      height="40"
+    />
+  </a>
 </p>
----
+
 
 ## 👨‍💻 About Me
 
