@@ -25,7 +25,7 @@ I am a passionate Software Engineer with professional experience in building sca
 
 ### **Languages**
 
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![TypeScript]([https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) =40x40) ![JavaScript]([https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) =40x40) ![Python]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) =40x40) ![C++]([https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) =40x40)
 
 ### **Frontend**
 
