@@ -86,7 +86,7 @@ I am a passionate Software Engineer with professional experience in building sca
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  <img src="https://images.seeklogo.com/logo-png/42/2/prisma-logo-png_seeklogo-428631.png" alt="Prisma" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" alt="Prisma" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="Drizzle" width="40" height="40" />
 </p>
 
